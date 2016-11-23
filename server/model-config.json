@@ -33,7 +33,7 @@
     "public": false
   },
   "Post": {
-    "dataSource": "db",
+    "dataSource": "pg",
     "public": true
   }
 }
