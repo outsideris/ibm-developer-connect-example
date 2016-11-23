@@ -35,5 +35,9 @@
   "Post": {
     "dataSource": "pg",
     "public": true
+  },
+  "Comment": {
+    "dataSource": "pg",
+    "public": true
   }
 }
